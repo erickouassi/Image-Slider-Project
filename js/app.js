@@ -7,6 +7,11 @@
     "contBcg-2",
     "contBcg-3",
     "contBcg-4",
+    "img0001",
+    "img0002",
+    "img0003",
+    "img0004",
+    "img0005",
     "eva-blue-2-aMoIuTXd4-unsplash"
   ];
 
