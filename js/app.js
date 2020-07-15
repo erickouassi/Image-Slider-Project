@@ -2,17 +2,11 @@
 
 (function() {
   const pictures = [
-    "contBcg-0",
-    "contBcg-1",
-    "contBcg-2",
-    "contBcg-3",
-    "contBcg-4",
     "img0001",
     "img0002",
     "img0003",
     "img0004",
-    "img0005",
-    "eva-blue-2-aMoIuTXd4-unsplash"
+    "img0005"
   ];
 
   //select both left and right button. Add event listeners
