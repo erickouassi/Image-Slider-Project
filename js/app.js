@@ -6,7 +6,8 @@
     "contBcg-1",
     "contBcg-2",
     "contBcg-3",
-    "contBcg-4"
+    "contBcg-4",
+    "eva-blue-2-aMoIuTXd4-unsplash"
   ];
 
   //select both left and right button. Add event listeners
